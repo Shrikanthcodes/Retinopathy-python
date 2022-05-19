@@ -1,2 +1,3 @@
 # Retinopathy-python
-Python code for detecting diabetic retinopathy using keras
+Attempt 1 for Python code for detecting diabetic retinopathy using keras
+
